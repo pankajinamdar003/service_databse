@@ -1,0 +1,16 @@
+[
+  {
+    "id": "1",
+    "name": "Plumbing",
+    "description": "Professional plumbing services",
+    "price": "1000",
+    "status": "Available"
+  },
+  {
+    "id": "2",
+    "name": "Electrical Repair",
+    "description": "Experienced electricians for home repairs",
+    "price": "1500",
+    "status": "Available"
+  }
+]
